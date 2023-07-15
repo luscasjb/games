@@ -105,6 +105,18 @@ section ul li:hover {
     border: 1px solid #443E54;
 }
 
+.social-list img {
+    width: 32px;
+    border-radius: 50%;
+    border: 1px solid #443E54;
+    padding: 0;
+}
+
+.instagram {
+    margin-top: -4.3px;
+    padding-right: 5px;
+}
+
 /* animation */
 
 header div {
